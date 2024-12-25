@@ -10,7 +10,6 @@ browser-messages.json
 browser-token.json
 decoded-ws.json
 docs
-lib
 messages*.json
 node_modules
 output.csv
@@ -18,3 +17,16 @@ Proxy
 test.ts
 TestData
 wa-logs.txt
+Example
+Media
+proto-extract
+src
+.eslintignore
+.eslintrc.json
+.gitattributes
+.npmignore
+.prettierignore
+.release-it.yml
+jest.config.js
+tsconfig.json
+yarn.lock
