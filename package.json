@@ -26,7 +26,6 @@
     "WASignalGroup/*.js"
   ],
   "scripts": {
-    "postinstall": "tsc",
     "build:all": "tsc && typedoc",
     "build:docs": "typedoc",
     "build:tsc": "tsc",
